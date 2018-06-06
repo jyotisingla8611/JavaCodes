@@ -3,7 +3,7 @@ public class Replace_Char {
 	@SuppressWarnings("unused")
 	public static void main(String args[])
 	{   String name;
-		System.out.println("Enter a number ");
+		System.out.println("Enter a name ");
 		@SuppressWarnings("resource")
 		Scanner obj= new Scanner(System.in);
         name=obj.nextLine();
